@@ -1,0 +1,1 @@
+query { worldData { encounter(id: 712) { name characterRankings(includeCombatantInfo: true, specName: "Fury", metric: dps, page:47) } } }
